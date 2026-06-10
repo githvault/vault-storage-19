@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:6
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:6.000,
+https://raw.githubusercontent.com/githvault/vault-storage-19/main/.vault/hls/f74264f5-8577-47fc-b873-c0fa6ab41116/00000.dat
+#EXTINF:6.000,
+https://raw.githubusercontent.com/githvault/vault-storage-20/main/.vault/hls/f74264f5-8577-47fc-b873-c0fa6ab41116/00001.dat
+#EXT-X-ENDLIST
